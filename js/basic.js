@@ -1,3 +1,5 @@
+window.onload = function(){ 
+
 var operations = ["+","-","/","x","%"];
 
 var result;
@@ -191,3 +193,4 @@ function delDisplay(){
   
   
 }
+};
