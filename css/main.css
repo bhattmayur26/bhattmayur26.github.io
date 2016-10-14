@@ -1,0 +1,52 @@
+.btn{
+  min-width: 60px;
+  margin-top: 3px;
+  font-family: 'Titillium Web', sans-serif;
+  
+}
+
+
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+
+
+
+body{
+  background-color :white   ;
+}
+
+.container{
+  background-color : #E0E0E0 ;
+  width:280px;
+  height:400px;
+  margin-top: 30px;
+  border-radius: 15px;
+}
+
+#display{
+  width:250px;
+  height: 90px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border: 1px solid #a4c4a4;
+  border-radius: 5px;
+  background-color:#b6d8b6;
+}
+
+#topRow{
+  font-family: 'Titillium Web', sans-serif;
+  font-size:36px;
+  padding-right:10px;
+
+
+}
+
+#bottomRow{
+  font-family: 'Titillium Web', sans-serif; 
+  font-size:16px;
+  padding-right:10px;
+  
+  
+}
